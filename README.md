@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alextodea
+- 👀 I’m interested in building software within the financial sector.
+- 🌱 I’m currently working on machine learning and backend services for a unicorn startup within the financial sector.
+- 💞️ I’m looking to collaborate on blockchain projects.
+- 📫 How to reach me: linkedin -> https://www.linkedin.com/in/alexandru-todea-003b1b104/, e-mail: alexandrutodea1992@gmail.com
