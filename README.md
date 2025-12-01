@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @alextodea, a software engineer, digital nomad and of course, freelancer.
-- 👀 I’m interested in computer science topics such as distributed systems, microservices and machine learning.
-- 🌱 I am passionate about writing clean code, building have a data-driven approach to building software. My favorite programming language is Golang.
-- 💞️ I’m looking to contribute to innovative projects and further develop my expertise within distributed systems.
-- 📫 How to reach me: linkedin -> https://www.linkedin.com/in/alexandru-todea-003b1b104/, e-mail: alexandrutodea1992@gmail.com
+Software engineering | machne learning
+
+Linkedin:  https://www.linkedin.com/in/alexandru-todea-003b1b104
