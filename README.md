@@ -1,1 +1,1 @@
-Software engineer | Founder of The Engineering Problem 
+Software engineer | I {write|discuss|build} software using Artificial Intelligence.
