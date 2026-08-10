@@ -1,3 +1,1 @@
-Software engineer | Machine Learning 
-
-Linkedin:  https://www.linkedin.com/in/alexandru-todea-003b1b104
+Software engineer | Founder of The Problem Engineer 
